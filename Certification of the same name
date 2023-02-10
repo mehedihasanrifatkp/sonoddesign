@@ -1,0 +1,148 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Project</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <main>
+        <div class="container">
+            <div class="row">
+                <div class="b-32">
+                    <img style="width: 100px;" src="" alt="">
+                    
+                </div>
+                <div class="b-32 text-center">
+                    <img style="width: 80px;" src="images/logo.png" alt="">
+                    <h1 style="font-size: 20px; color: rgb(0, 0, 0);">গণপ্রজাতন্ত্রী বাংলােদশ সরকার</h1>
+                    <h1 style="font-size: 31px; color: rgb(0, 0, 0);">কুতুবপুর ইউনিয়ন পরিষদ</h1>
+                    <h4 style="font-size: 17px;margin: -2px; color: rgb(0, 0, 0);">উপজেলা: বেগমগঞ্জ, জেলা: নোয়াখালী।</h4>
+                    <h1 style="font-size: 16px; color: rgb(0, 0, 0);">ই-মেইলঃ ofmehedi17@gmail.com</h1>
+                    <h1 style="font-size: 16px; color: rgb(0, 0, 0);">মোবাইলঃ ০১৭৩৯৬৯৫৭৯০</h1>
+                    
+                    <h5 style="font-size: 35px;margin-top: 15px;padding: 0px 0px;border: 2px solid #000;border-radius: 10px;"><th><b>একই নামের প্রত্যয়ন</b></th></h5>
+                    <img  style="width: 55%; margin-top: 5px;" src="images/o.arish.jpg" alt="">
+                </div>
+                <div class="b-32 text-end">
+                    <img style="width: 130px;border-radius: 10px; " src="https://digitalupseba.com/storage/app/DATA/PROPRIETORS/IMAGES/mehedi_hasan.jpeg" alt="">
+                </div>
+            </div>
+
+
+            <div style="margin: 10px 0;" class="row">
+                <div class="b-60">
+                    <p style="font-size: 21px;">ইস্যু তারিখ: ০২-১১-২০২২ খ্রিঃ</p>
+                </div>
+                <div class="b-40 text-end">
+                    <p style="font-size: 21px;">প্রদানের তারিখ: ০২-১১-২০২২ খ্রিঃ</p>
+                </div>
+            </div>
+            
+            
+            <div class="number">
+                <p style="font-size: 22px; width: 100px;">সনদ নং:</p>
+                <div class="number-cell">২</div>
+                <div class="number-cell">৩</div>
+                <div class="number-cell">৪</div>
+                <div class="number-cell">১</div>
+                <div class="number-cell">৭</div>
+                <div class="number-cell">৫</div>
+                <div class="number-cell">১</div>
+                <div class="number-cell">০</div>
+                <div class="number-cell">৭</div>
+                <div class="number-cell">৬</div>
+                <div class="number-cell">৬</div>
+                <div class="number-cell">০</div>
+                <div class="number-cell">০</div>
+                <div class="number-cell">০</div>
+                <div class="number-cell">০</div>
+                <div class="number-cell">০</div>
+                <div class="number-cell">১</div>
+    
+            </div>
+
+            <div class="table-row">
+                <h2 style="font-size: 20px; text-decoration: underline; margin-top: 15px 0;">নাগরিক তথ্যঃ</h2>
+                <table>
+                    <tr>
+                        <td>১) নাম</td>
+                        <td style="font-weight: bold;">:</td>
+                        <td><h3>মেহেদী হাসান</h3></td>
+                    </tr>
+                    <tr>
+                        <td>২) পিতা</td>
+                        <td style="font-weight: bold;">:</td>
+                        <td>মৃত শাহ আলম</td>
+                    </tr>
+                    <tr>
+                        <td>৩) মাতা</td>
+                        <td style="font-weight: bold;">:</td>
+                        <td>হাজেরা খাতুন</td>
+                    </tr>
+                    <tr>
+                        <td>৪) জন্ম তারিখ</td>
+                        <td style="font-weight: bold;">:</td>
+                        <td>০১-০১-২০০৩ খ্রিঃ</td>
+                    </tr>
+                    <tr>
+                        <td>৫) জন্ম নিবন্ধন নম্বর</td>
+                        <td style="font-weight: bold;">:</td>
+                        <td>২০০৩৭৫১০৭৬৬০০৭৩২৬</td>
+                    </tr>
+                    <tr>
+                        <td>৬) জাতীয় পরিচয় পত্র নম্বর</td>
+                        <td style="font-weight: bold;">:</td>
+                        <td>২০০৩৭৫১০৭৬</td>
+                    </tr>
+                    <tr>
+                        <td>৭) হোল্ডিং</td>
+                        <td style="font-weight: bold;">:</td>
+                        <td>১৭১</td>
+                    </tr>
+                    <tr>
+                        <td>৮) স্থায়ী ঠিকানা</td>
+                        <td style="font-weight: bold;">:</td>
+                        <td> বাসা/হোল্ডিংঃ রকু মিয়ার পুরাতন বাড়ী, ওয়ার্ড নং- ০৫, গ্রাম:কুতুবপুর, ডাকঘর:কুতুবপুর-৩৮২১
+                            উপজেলা:বেগমগঞ্জ, জেলা:নোয়াখালী
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            
+            <div class="fixed-bottom">
+                <div class="paragraph">
+                    <p>এই মর্মে সনদ প্রদান করা যাচ্ছে যে, তিনি অত্র ইউনিয়নের একজন স্থায়ী বাসিন্দ এবং জন্মসৃত্রে বাংলাদেশের নাগরিক। আমি তাহাকে ব্যক্তিগতভাবে চিনি ও জানি। কোন কোন কাগজপত্রে তাহার নাম ফখরুল উল্লেখ রয়েছে। প্রকৃত পক্ষে <b>ফখরুল ইসলাম তুহিন</b> ও <b>ফখরুল</b> এইক ব্যক্তির নাম। <br> <br> আমি তাহার সর্বাঙ্গীন উন্নতি ও মঙ্গল কামনা করি।</p>
+                </div>
+                <div style="align-items: center;" class="row">
+                    <div class="b-60">
+                        <p></p>
+                    </div>
+                    <div class="b-40 text-center">
+                        <h4 style="font-size: 25px;">কামাল হোসেন</h4>
+                        <h5 style="font-size: 18px;">চেয়ারম্যান</h5>
+                        <h5 style="font-size: 18px;">কুতুবপুর ইউনিয়ন পরিষদ</h5>
+                        <h5 style="font-size: 18px;">বেগমগঞ্জ, নোয়াখালী</h5>
+                    </div>
+                </div>
+                <div style="margin-top:10px;" class="row">
+                    <div class="b-60">
+                        <h2 style="font-size: 18px; text-decoration: underline; margin: 15px 0;">সনদ যাচাই:</h2>
+                        <ul>
+                            <li style=" margin: 5px 0;">ক) ভিজিট করুন: <a style="text-decoration: none; color:#000;" href="www.digitalupseba.com"> www.digitalupseba.com‍</a></li>
+                            <li>খ) QR স্ক্যান করুন: ‍</li>
+                        </ul>
+                    </div>
+                    <div class="b-40 text-end">
+                        <img style="width: 80px;" src="images/QR code.png" alt="">
+                    </div>
+                </div>
+                <div class="text-center">
+                    <p style="margin-top: 7px; font-size: 15px;">সফটওয়ার নির্মাণ, রক্ষণাবেক্ষণ: ডিজিটাল ইউপি সেবা</p>
+                </div>
+            </div>
+        </div>
+    </main>
+  </body>
+</html>
